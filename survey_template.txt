@@ -1,0 +1,52 @@
+
+[[AdvancedFormat]]
+
+[[Block: Instructions]]
+
+[[Question:Text]]
+
+<b> Instructions </b> 
+<BR>
+We have gathered some experts to write some poetry for us, and we need your opinions on their poetry. 
+Please read their poetry carefully and be honest in your answers.
+
+[[Block:Poetry Ratings]] 
+
+[[Question:Text]]
+
+[[ID:ID_1a]]
+
+Poem 1: ADD POEM CONTENT HERE. 
+
+[[Question:TextEntry]]
+
+[[ID:ID_1b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:ID_1c]]
+
+How do you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+
+[[Block:Debrief]]
+
+[[Question:Text]]
+
+[[ID:debrief]]
+
+Thank you for your participation! 
+
+
+

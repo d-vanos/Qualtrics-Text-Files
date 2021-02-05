@@ -1,0 +1,165 @@
+
+[[AdvancedFormat]]
+
+[[Block: Instructions]]
+
+[[Question:Text]]
+
+<b> Instructions </b> 
+<BR>
+We have gathered some experts to write some poetry for us, and we need your opinions on their poetry. 
+Please read their poetry carefully and be honest in your answers.
+
+[[Block:Poetry Ratings]] 
+[[Question:Text]]
+[[ID:R_1oAWZUWj3EAE1b7-a]]
+
+Poem: Roses are red 
+Violets are blue
+I am the best poet
+Much better than you
+
+[[Question:TextEntry]]
+
+[[ID:R_1oAWZUWj3EAE1b7-b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:R_1oAWZUWj3EAE1b7-c]]
+
+How would you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+[[Question:Text]]
+[[ID:R_WfFGgvljw7upvC9-a]]
+
+Poem: Why is it 33 degrees, 
+In September,
+I am hot.
+
+[[Question:TextEntry]]
+
+[[ID:R_WfFGgvljw7upvC9-b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:R_WfFGgvljw7upvC9-c]]
+
+How would you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+[[Question:Text]]
+[[ID:R_aVtDsqBxjLD7UNr-a]]
+
+Poem: Humpty Dumpty sat on a wall,
+Humpty Dumpty had a great fall;
+All the king's horses and all the king's men,
+Couldn't put Humpty together again.
+
+[[Question:TextEntry]]
+
+[[ID:R_aVtDsqBxjLD7UNr-b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:R_aVtDsqBxjLD7UNr-c]]
+
+How would you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+[[Question:Text]]
+[[ID:R_06Yh8ceZn5wldKx-a]]
+
+Poem: Hi ho Hi ho,
+Its home from work we go,
+Whistles: do do do do dodododo,
+Hi ho hi ho hi ho hi ho Hi ho,
+Its home from work we go
+
+[[Question:TextEntry]]
+
+[[ID:R_06Yh8ceZn5wldKx-b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:R_06Yh8ceZn5wldKx-c]]
+
+How would you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+[[Question:Text]]
+[[ID:R_b9oVibsvbiZerUl-a]]
+
+Poem: The itsy bitsy spider crawled up the water spout.
+Down came the rain, and washed the spider out.
+Out came the sun, and dried up all the rain,
+and the itsy bitsy spider went up the spout again.
+
+[[Question:TextEntry]]
+
+[[ID:R_b9oVibsvbiZerUl-b]]
+
+What are your initial thoughts about his poem? 
+
+[[Question:MC:SingleAnswer:Horizontal]]
+
+[[ID:R_b9oVibsvbiZerUl-c]]
+
+How would you rate this poetry?
+
+[[Choices]]
+
+1 - Why did they even bother submitting.
+2 
+3 
+4 
+5 
+6 
+7 - The most beautiful thing I've ever read.
+[[Block:Debrief]]
+
+[[Question:Text]]
+
+[[ID:debrief]]
+
+Thank you for your participation! 

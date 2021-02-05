@@ -1,0 +1,24 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,name,years_exp,poetry,poetry_rating
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Name,Years of Poetry Experience,Please write some beautiful poetry.,How highly do you rate your own poetry?
+"{""ImportId"":""startDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""endDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Australia/Canberra""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4""}"
+2021-02-04 16:54:25,2021-02-04 16:57:08,Survey Preview,,100,163,True,2021-02-04 16:57:10,R_1oAWZUWj3EAE1b7,,,,,-27.4535064697265625,153.012786865234375,preview,EN,Edgar Allan Poe,172,"Roses are red 
+Violets are blue
+I am the best poet
+Much better than you",1 - Why did I even bother submitting.
+2021-02-04 17:01:25,2021-02-04 17:01:57,Survey Preview,,100,32,True,2021-02-04 17:01:59,R_WfFGgvljw7upvC9,,,,,-27.4535064697265625,153.012786865234375,preview,EN,William Shakespeare,405,"Why is it 33 degrees, 
+In September,
+I am hot. ",7 - The most beautiful thing I've ever written.
+2021-02-04 17:02:01,2021-02-04 17:03:58,Survey Preview,,100,117,True,2021-02-04 17:04:00,R_aVtDsqBxjLD7UNr,,,,,-27.4535064697265625,153.012786865234375,preview,EN,Emily Dickinson,135,"Humpty Dumpty sat on a wall,
+Humpty Dumpty had a great fall;
+All the king's horses and all the king's men,
+Couldn't put Humpty together again.",4
+2021-02-04 17:04:05,2021-02-04 17:05:52,Survey Preview,,100,107,True,2021-02-04 17:05:54,R_06Yh8ceZn5wldKx,,,,,-27.4535064697265625,153.012786865234375,preview,EN,Elizabeth Barrett Browning,160,"Hi ho Hi ho,
+Its home from work we go,
+Whistles: do do do do dodododo,
+Hi ho hi ho hi ho hi ho Hi ho,
+Its home from work we go",6
+2021-02-04 17:05:56,2021-02-04 17:14:29,Survey Preview,,100,513,True,2021-02-04 17:14:30,R_b9oVibsvbiZerUl,,,,,-27.4535064697265625,153.012786865234375,preview,EN,Oscar Wilde,121,"The itsy bitsy spider crawled up the water spout.
+Down came the rain, and washed the spider out.
+Out came the sun, and dried up all the rain,
+and the itsy bitsy spider went up the spout again.",5
+2021-02-04 17:17:19,2021-02-04 17:17:33,Survey Preview,,100,14,True,2021-02-04 17:17:34,R_2fJsN6355FsCYXE,,,,,-27.4535064697265625,153.012786865234375,preview,EN,Robert Frost,58,,3
